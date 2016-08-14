@@ -1,1 +1,0 @@
-"use strict";$(document).ready(function(){var i=function(){var i=$(window).height(),n=$(window).width();$("#background").css("height",i).css("width",n)};i(),$(window).on("resize",i)});
